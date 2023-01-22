@@ -4,23 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67bb079-3b58-461b-87cf-6202f16e825b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zadatak1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/favicon-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swing-practice.iml" afterDir="false" />
+    <list default="true" id="d67bb079-3b58-461b-87cf-6202f16e825b" name="Changes" comment="Finished the first batch of files">
+      <change afterPath="$PROJECT_DIR$/src/Zadatak2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +55,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Zadatak2">
     <configuration name="Zadatak1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadatak1" />
       <module name="swing-practice" />
@@ -65,8 +63,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadatak2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadatak2" />
+      <module name="swing-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadatak2" />
         <item itemvalue="Application.Zadatak1" />
       </list>
     </recent_temporary>
@@ -80,6 +86,34 @@
       <option name="presentableId" value="Default" />
       <updated>1674155506015</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added README">
+      <created>1674407463849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674407463849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added gitignore">
+      <created>1674407471361</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674407471361</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished the first batch of files">
+      <created>1674407494555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674407494555</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added README" />
+    <MESSAGE value="Added gitignore" />
+    <MESSAGE value="Finished the first batch of files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the first batch of files" />
   </component>
 </project>
