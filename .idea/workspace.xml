@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d67bb079-3b58-461b-87cf-6202f16e825b" name="Changes" comment="Finished the second batch of files">
-      <change afterPath="$PROJECT_DIR$/src/Zadatak3.java" afterDir="false" />
+    <list default="true" id="d67bb079-3b58-461b-87cf-6202f16e825b" name="Changes" comment="Finished the third batch of files">
+      <change afterPath="$PROJECT_DIR$/src/Zadatak4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zadatak3">
+  <component name="RunManager" selected="Application.Zadatak4">
     <configuration name="Zadatak1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadatak1" />
       <module name="swing-practice" />
@@ -77,8 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadatak4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadatak4" />
+      <module name="swing-practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadatak4" />
         <item itemvalue="Application.Zadatak3" />
         <item itemvalue="Application.Zadatak2" />
         <item itemvalue="Application.Zadatak1" />
@@ -122,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674408333797</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished the third batch of files">
+      <created>1675018005648</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675018005648</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,6 +145,7 @@
     <MESSAGE value="Added gitignore" />
     <MESSAGE value="Finished the first batch of files" />
     <MESSAGE value="Finished the second batch of files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the second batch of files" />
+    <MESSAGE value="Finished the third batch of files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the third batch of files" />
   </component>
 </project>
